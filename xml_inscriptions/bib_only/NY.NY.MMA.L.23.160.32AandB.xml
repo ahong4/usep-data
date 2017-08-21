@@ -40,6 +40,10 @@
                   <ptr type="rest-of-bibl" target="#CIL_XVI"/>
                   <biblScope unit="item">97</biblScope>
                </bibl>
+               <bibl>
+                  <ptr type="rest-of-bibl" target="#MMAB_19_Richter"/>
+                  <biblScope unit="item">70</biblScope>
+               </bibl>
             </listBibl>
          </sourceDesc>
       </fileDesc>
